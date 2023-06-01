@@ -14,6 +14,8 @@
 		9448FD262A28F5AF0086A886 /* bizbuds_testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FD252A28F5AF0086A886 /* bizbuds_testTests.swift */; };
 		9448FD302A28F5AF0086A886 /* bizbuds_testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FD2F2A28F5AF0086A886 /* bizbuds_testUITests.swift */; };
 		9448FD322A28F5AF0086A886 /* bizbuds_testUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FD312A28F5AF0086A886 /* bizbuds_testUITestsLaunchTests.swift */; };
+		9448FD3F2A2905A90086A886 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FD3E2A2905A90086A886 /* File.swift */; };
+		9448FD412A2905E50086A886 /* Sign Up.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9448FD402A2905E50086A886 /* Sign Up.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		9448FD2B2A28F5AF0086A886 /* bizbuds testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "bizbuds testUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9448FD2F2A28F5AF0086A886 /* bizbuds_testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bizbuds_testUITests.swift; sourceTree = "<group>"; };
 		9448FD312A28F5AF0086A886 /* bizbuds_testUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bizbuds_testUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9448FD3E2A2905A90086A886 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		9448FD402A2905E50086A886 /* Sign Up.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sign Up.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +100,8 @@
 			children = (
 				9448FD142A28F5AD0086A886 /* bizbuds_testApp.swift */,
 				9448FD162A28F5AD0086A886 /* ContentView.swift */,
+				9448FD402A2905E50086A886 /* Sign Up.swift */,
+				9448FD3E2A2905A90086A886 /* File.swift */,
 				9448FD182A28F5AE0086A886 /* Assets.xcassets */,
 				9448FD1A2A28F5AE0086A886 /* Preview Content */,
 			);
@@ -258,6 +264,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				9448FD172A28F5AD0086A886 /* ContentView.swift in Sources */,
+				9448FD3F2A2905A90086A886 /* File.swift in Sources */,
+				9448FD412A2905E50086A886 /* Sign Up.swift in Sources */,
 				9448FD152A28F5AD0086A886 /* bizbuds_testApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
